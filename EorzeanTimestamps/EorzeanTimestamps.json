@@ -1,0 +1,13 @@
+{
+  "Author": "mooncatte",
+  "Name": "Eorzean Chat Timestamps",
+  "Punchline": "for fishers and people who don't want to be reminded of the passage of time in reality.",
+  "Description": "changes or appends the chatlog timestamp with current Eorzean time. /etimestamp to configure.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "chat",
+    "time",
+    "ui"
+  ],
+  "RepoUrl":"https://github.com/mooncatte/EorzeanTimestamps.git"
+}
